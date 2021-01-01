@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaImgs.WebAPI", "AlphaImgs.WebAPI\AlphaImgs.WebAPI.csproj", "{72B89A9E-AA43-459B-AC7E-756C99E7650A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaImgs.Services", "AlphaImgs.Services\AlphaImgs.Services.csproj", "{65905AF6-C93C-4662-9890-C48809641174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B89A9E-AA43-459B-AC7E-756C99E7650A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B89A9E-AA43-459B-AC7E-756C99E7650A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B89A9E-AA43-459B-AC7E-756C99E7650A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B89A9E-AA43-459B-AC7E-756C99E7650A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65905AF6-C93C-4662-9890-C48809641174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65905AF6-C93C-4662-9890-C48809641174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65905AF6-C93C-4662-9890-C48809641174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65905AF6-C93C-4662-9890-C48809641174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
