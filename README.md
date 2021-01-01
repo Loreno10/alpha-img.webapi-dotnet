@@ -12,7 +12,11 @@ This Web API is reponsible for delivering the images that the SPA users request.
 It gets the images using Google Search API. This app was introduced mostly for
 the needs of securing the Google Search API Key.
 
-Features:
+The API is deployed to Heroku at https://alpha-imgs-webapi.herokuapp.com/. The
+SPA frontend that uses this API is available at
+https://alpha-imgs-spa.herokuapp.com/
+
+## Features:
 
 - has one GET endpoint that delivers max 20 images at a time. The parameters of
   the endpoint are:
@@ -26,7 +30,7 @@ Features:
   the Clipboard API that SPA uses to copy the images - it only works with PNGs)
 - returns images sorted by size (width)
 
-# Project setup
+## Project setup
 
 ```
 dotnet run
